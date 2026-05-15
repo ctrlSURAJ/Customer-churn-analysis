@@ -1,0 +1,15 @@
+1.26.54% of customers churned overall — roughly 1 in 4 customers left
+
+2.Month-to-month customers churn at 43% vs only 3% for 2-year contract customers — contract type is the     biggest churn driver
+
+3.Churned customers pay $13 more per month on average ($74.44 vs $61.27) and have far less tenure (18 months vs 38 months)
+
+4.Fiber optic users churn at 42% vs only 19% for DSL users — despite being a premium service, it has the worst retention
+
+5.Senior citizens churn at 42% (476/1142) vs only 24% for non-seniors — a significantly more at-risk segment.
+
+6.Paperless billing customers churn at 33.57% vs only 16.33% for non-paperless — double the churn rate
+
+7.1400 out of 4171 paperless billing customers churned — the largest single group of churners
+
+8.Paperless billing customers are likely more tech-savvy and comfortable switching providers online
