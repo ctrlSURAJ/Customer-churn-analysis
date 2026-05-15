@@ -18,6 +18,35 @@ End-to-end analysis of telecom customer churn using SQL for exploration and Pyth
 - Electronic check users churn at 45% — highest of any payment method
 - Paperless billing customers churn at double the rate of non-paperless customers
 
+## Visualizations
+
+### Churn by Contract Type
+![Churn by Contract](churn_by_contract.png)
+
+### Tenure vs Churn
+![Tenure vs Churn](tenure_churn.png)
+
+### Monthly Charges: Churned vs Retained
+![Monthly Charges](charges_churn.png)
+
+### Churn by Internet Service Type
+![Churn by Internet Service](churn_by_internet.png)
+
+### Churn by Tenure Group
+![Churn by Tenure Group](churn_by_tenure_group.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](roc_curve.png)
+
 ## Model Performance
 - Algorithm: Logistic Regression
 - Accuracy: 78.75%
